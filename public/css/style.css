@@ -1,0 +1,30 @@
+.partie1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1 {
+    display: flex;
+    position: absolute;
+    left: 280px;
+    top: 25px;
+
+}
+
+.titre1 {
+    display: flex;
+    position: absolute;
+    left: 800px;
+    top: 75px;
+
+}
+
+.text1 {
+    display: flex;
+    position: absolute;
+    left: 800px;
+    top: 215px;
+
+    margin-right: 380px;
+}
