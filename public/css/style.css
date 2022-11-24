@@ -28,3 +28,58 @@
 
     margin-right: 380px;
 }
+
+
+
+.partie2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2 {
+    display: flex;
+    position: absolute;
+    left: 700px;
+    top: 555px;
+    margin: 0;
+    padding: 0;
+
+}
+
+.titre2 {
+    display: flex;
+    position: absolute;
+    right: 1025px;
+    top: 550px;
+
+}
+
+.text2 {
+    display: flex;
+    position: absolute;
+    right: 900px;
+    left: 215px;
+    top: 650px;
+
+
+}
+
+.text22 {
+    display: flex;
+    position: absolute;
+    right: 900px;
+    left: 215px;
+    top: 799px;
+
+}
+
+.liste {
+    display: flex;
+    position: absolute;
+    right: 900px;
+    left: 210px;
+    top: 850px;
+    margin: 0;
+    padding: 0;
+}
