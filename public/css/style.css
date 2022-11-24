@@ -83,3 +83,50 @@
     margin: 0;
     padding: 0;
 }
+
+.partie3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img3 {
+    display: flex;
+    position: absolute;
+    left: 280px;
+    top: 1100px;
+
+}
+
+.titre3 {
+    display: flex;
+    position: absolute;
+    left: 800px;
+    top: 1100px;
+
+}
+
+.text3 {
+    display: flex;
+    position: absolute;
+    left: 800px;
+    top: 1175px;
+
+    margin-right: 380px;
+}
+
+.btn {
+    display: flex;
+    position: absolute;
+    left: 880px;
+    top: 1300px;
+}
+
+.btncouleur {
+    color: white;
+    background-color: violet;
+    border: 0;
+    height: 30px;
+    border-radius: 2px;
+
+}
